@@ -1,0 +1,10 @@
+schema_version: 1
+name: lorelum-rehearsal
+description: Local rehearsal registry for the react-web-craft 0.1.0 install-path gate.
+packs:
+  - name: react-web-craft
+    description: Practices for React web application design and performance across component state, async data flow, loading, rendering, and component composition.
+    releases:
+      - version: 0.1.0
+        ref: react-web-craft-v0.1.0
+        path: packs/react-web-craft
