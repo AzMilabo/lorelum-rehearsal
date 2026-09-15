@@ -7,5 +7,7 @@ AzMilabo 的个人工程实践积累包（初始不设领域限制；沉淀出�
 | ID | Status |
 | --- | --- |
 | `azmilabo-engineering.tooling.verify-formatter-baseline` | `validated` |
+| `azmilabo-engineering.tooling.bind-github-target-before-write` | `validated` |
+| `azmilabo-engineering.tooling.pass-untrusted-text-via-files` | `validated` |
 
 Status 流转：`draft → validated → offered`。只把 `validated` 及以上的内容对外提供。
