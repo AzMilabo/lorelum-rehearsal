@@ -1,4 +1,10 @@
 schema_version: 1
 name: azmilabo-workspace
 description: Personal Practice workspace for AzMilabo — capture engineering experience as Practices; validated content is later offered upstream to lorelum/lorelum-packs.
-packs: []
+packs:
+  - name: azmilabo-engineering
+    description: AzMilabo's field-tested engineering practices accumulated from daily work.
+    releases:
+      - version: 0.1.0
+        ref: azmilabo-engineering-v0.1.0
+        path: packs/azmilabo-engineering
