@@ -8,6 +8,3 @@ packs:
       - version: 0.1.0
         ref: azmilabo-engineering-v0.1.0
         path: packs/azmilabo-engineering
-      - version: 0.1.1
-        ref: azmilabo-engineering-v0.1.1
-        path: packs/azmilabo-engineering
