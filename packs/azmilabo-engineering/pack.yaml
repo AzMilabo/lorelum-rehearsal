@@ -1,0 +1,8 @@
+name: azmilabo-engineering
+version: 0.1.0
+description: AzMilabo's field-tested engineering practices accumulated from daily work.
+author:
+  name: AzMilabo
+license: CC-BY-4.0
+applies_to:
+  - general

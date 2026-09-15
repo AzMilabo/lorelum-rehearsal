@@ -1,0 +1,8 @@
+name: <kebab-case-pack-name>
+version: 0.1.0
+description: <one line, shown by lore search and humans>
+author:
+  name: AzMilabo
+license: CC-BY-4.0
+applies_to:
+  - <tech_stack this pack covers>
